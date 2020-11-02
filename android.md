@@ -1,6 +1,6 @@
-## Android setup
-1. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-2. `brew cask install android-studio`
+## Android setup for Mac
+1. Install homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+2. Install Android Studio: `brew cask install android-studio`
 3. Run Android Studio and setup required packages
 4. Update your bash/zsh profile:
 ```
